@@ -64,75 +64,33 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Engineeringleaders.io is a community platform for engineering leaders in Central and Eastern Europe, offering meetups, conferences, mentorship, peer circles, and AI toolkits. It provides membership options for individuals and companies, organizes events across Prague, Brno, Bratislava, and Kraków, and supports leadership development through workshops, an academy, and networking opportunities. The platform aims to foster knowledge sharing and professional growth among senior engineering professionals.
+Engineering Leaders Community (ELC) is the largest community of senior engineering leaders in Central Europe, uniting over 3,500 CTOs, VPs of Engineering, engineering managers and tech leads across Prague, Brno, Bratislava and Kraków. The community hosts 12 meetups a year with 120+ registrations each, offering free, practical knowledge sharing without theory. It aims to foster leadership, networking, and professional growth among engineering executives in the region.
 
-**Areas:** Company · Community · Leadership · Events · Membership
+**Areas:** Community · Engineering · Leadership · Central-Europe · Meetups
 
 ## engineeringleaders-io on APIs.io
 
 Everything profiled for engineeringleaders-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/engineeringleaders-io/](https://apis.io/providers/engineeringleaders-io/)** — or go straight to one of the APIs or properties below.
-
-### Published properties
-
-Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### Security (1)
-
-Authentication, trust centre, and vulnerability disclosure.
-
-- [Engineeringleaders Io Domain Security](https://apis.io/security/engineeringleaders-io/engineeringleaders-io-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://engineeringleaders.io/)
-- [Blog](https://www.engineeringleaders.io/blog)
-- [Terms of service](https://www.engineeringleaders.io/terms/)
-- [Privacy policy](https://www.engineeringleaders.io/privacy)
+- [Documentation](https://www.engineeringleaders.io/)
+- [Getting started](https://www.engineeringleaders.io/join/)
+- [API reference](https://www.engineeringleaders.io/mcp/partnership/api/openapi.json)
+- [Pricing](https://www.engineeringleaders.io/partner/membership/)
+- [Sign up](https://www.engineeringleaders.io/join/)
+- [Support](https://www.engineeringleaders.io/)
+- [Blog](https://www.engineeringleaders.io/blog/)
+- [Terms of service](https://www.engineeringleaders.io/144/terms/)
+- [Privacy policy](https://www.engineeringleaders.io/privacy/)
+- [GitHub](https://github.com/marian-kamenistak)
 
 ## API Evangelist rating
 
-**Kin Score 9.5** — minimal · rubric 0.25.0 · scored 2026-10-30
-
-| Facet | Score |
-|---|---|
-| Discoverability | 50.0 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 2.4 |
-| Access clarity | 21.1 |
-
-**Agent readiness 11.7** — agent-aware
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | yes |
-| Consent Identity | — |
-| Agent Card | conformant |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/engineeringleaders-io/](https://apis.io/providers/engineeringleaders-io/).
+Not yet rated. See [apis.io/providers/engineeringleaders-io/](https://apis.io/providers/engineeringleaders-io/).
 
 ## How this profile is made
 
